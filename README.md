@@ -38,6 +38,9 @@ This is a simple URL shortener application built using React for the frontend an
 ├── static
 │   └── css
 └── templates
+
+## Reference Used
+https://www.twilio.com/en-us/blog/build-url-shortener-go
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
